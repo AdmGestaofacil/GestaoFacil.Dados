@@ -10,6 +10,7 @@ namespace GestaoFacil.Dados.Modelos
     public class Despesa
     {
         //testeedi
+
         [Key]
         public int DespesaId { get; set; }
 
