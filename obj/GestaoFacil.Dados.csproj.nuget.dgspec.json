@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GestaoFacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj": {}
+    "C:\\GestaoFacil\\GestaoFacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj": {}
   },
   "projects": {
-    "C:\\GestaoFacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj": {
+    "C:\\GestaoFacil\\GestaoFacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GestaoFacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj",
+        "projectUniqueName": "C:\\GestaoFacil\\GestaoFacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj",
         "projectName": "GestaoFacil.Dados",
-        "projectPath": "C:\\GestaoFacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj",
+        "projectPath": "C:\\GestaoFacil\\GestaoFacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj",
         "packagesPath": "C:\\Users\\adriano\\.nuget\\packages\\",
-        "outputPath": "C:\\GestaoFacil\\GestaoFacil.Dados\\obj\\",
+        "outputPath": "C:\\GestaoFacil\\GestaoFacil\\GestaoFacil.Dados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

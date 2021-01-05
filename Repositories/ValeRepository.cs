@@ -32,13 +32,17 @@ namespace GestaoFacil.Dados.Repositories
             return _contexto.Vales.ToList();
         }
 
-        public void Remove(int id)
+        public int Remove(int id)
         {
-            var vale = Find(id);
+            var vale = _contexto.Vales.FirstOrDefault(s => s.ValeId == id);
+            if (vale == null)
+                return 0;
+
             _contexto.Vales.Remove(vale);
             _contexto.SaveChanges();
-        }
 
+            return 1;
+        }
         public void Update(Vale vale)
         {
             _contexto.Vales.Update(vale);

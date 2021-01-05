@@ -10,6 +10,7 @@ namespace GestaoFacil.Dados.Helpers
         {
 
             /*
+             * 
                AutoMapper = Objetivo de converte de um objeto pra outro.
              */
             //Convertendo  "palavra" para o objeto "palavraDTO"

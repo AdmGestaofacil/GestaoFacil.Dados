@@ -10,7 +10,7 @@ namespace GestaoFacil.Dados.Repositories.Interfaces
         void Add(Vale vale);
         IEnumerable<Vale> GetAll();
         Vale Find(int id);
-        void Remove(int id);
+        int Remove(int id);
         void Update(Vale vale);
     }
 }
