@@ -9050,11 +9050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GestaoFacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj",
+      "projectUniqueName": "C:\\Sistema\\AdmGestaofacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj",
       "projectName": "GestaoFacil.Dados",
-      "projectPath": "C:\\GestaoFacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj",
+      "projectPath": "C:\\Sistema\\AdmGestaofacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj",
       "packagesPath": "C:\\Users\\adriano\\.nuget\\packages\\",
-      "outputPath": "C:\\GestaoFacil\\GestaoFacil.Dados\\obj\\",
+      "outputPath": "C:\\Sistema\\AdmGestaofacil\\GestaoFacil.Dados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -9136,7 +9136,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
