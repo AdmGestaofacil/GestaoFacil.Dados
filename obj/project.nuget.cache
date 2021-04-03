@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NM0J9scnvAS/GYtaxZnz5O2/SvDS4o0gTOt1z4wfu455nl5WyoRYVtHYfJADoBs+btGihDVWD+EeyX3Bbe3q2A==",
+  "dgSpecHash": "RYdLsh56g9wr35t2O9bhHlLhfjTEa+CqklZ0/7v9ci57aisTrvojVkszbyUxm2ncsr8536ML3VtxMX4WYpZS/A==",
   "success": true,
-  "projectFilePath": "C:\\Sistema\\AdmGestaofacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj",
+  "projectFilePath": "C:\\Sistema\\Dados\\GestaoFacil.Dados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adriano\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\adriano\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sistema\\AdmGestaofacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj": {}
+    "C:\\Sistema\\Dados\\GestaoFacil.Dados.csproj": {}
   },
   "projects": {
-    "C:\\Sistema\\AdmGestaofacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj": {
+    "C:\\Sistema\\Dados\\GestaoFacil.Dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistema\\AdmGestaofacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj",
+        "projectUniqueName": "C:\\Sistema\\Dados\\GestaoFacil.Dados.csproj",
         "projectName": "GestaoFacil.Dados",
-        "projectPath": "C:\\Sistema\\AdmGestaofacil\\GestaoFacil.Dados\\GestaoFacil.Dados.csproj",
+        "projectPath": "C:\\Sistema\\Dados\\GestaoFacil.Dados.csproj",
         "packagesPath": "C:\\Users\\adriano\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistema\\AdmGestaofacil\\GestaoFacil.Dados\\obj\\",
+        "outputPath": "C:\\Sistema\\Dados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\adriano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,6 +33,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +45,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -93,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
