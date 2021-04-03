@@ -11,7 +11,7 @@ namespace GestaoFacil.Dados.Modelos
     {
         [Key]
         public int CartaoId { get; set; }
-
+        //ed
         [Required]
         [StringLength(500)]
         public string Descricao { get; set; }
