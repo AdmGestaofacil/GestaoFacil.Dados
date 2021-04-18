@@ -22,3 +22,15 @@ C:\GestaoFacil\GestaoFacil.Dados\obj\Debug\netcoreapp3.1\GestaoFacil.Dados.dll
 C:\GestaoFacil\GestaoFacil.Dados\obj\Debug\netcoreapp3.1\GestaoFacil.Dados.pdb
 C:\GestaoFacil\GestaoFacil.Dados\obj\Debug\netcoreapp3.1\GestaoFacil.Dados.genruntimeconfig.cache
 C:\GestaoFacil\GestaoFacil.Dados\obj\Debug\netcoreapp3.1\GestaoFacil.Dados.csprojAssemblyReference.cache
+C:\Sistema\AdmGestaofacil\GestaoFacil.Dados\bin\Debug\netcoreapp3.1\GestaoFacil.Dados.deps.json
+C:\Sistema\AdmGestaofacil\GestaoFacil.Dados\bin\Debug\netcoreapp3.1\GestaoFacil.Dados.runtimeconfig.json
+C:\Sistema\AdmGestaofacil\GestaoFacil.Dados\bin\Debug\netcoreapp3.1\GestaoFacil.Dados.runtimeconfig.dev.json
+C:\Sistema\AdmGestaofacil\GestaoFacil.Dados\bin\Debug\netcoreapp3.1\GestaoFacil.Dados.dll
+C:\Sistema\AdmGestaofacil\GestaoFacil.Dados\bin\Debug\netcoreapp3.1\GestaoFacil.Dados.pdb
+C:\Sistema\AdmGestaofacil\GestaoFacil.Dados\obj\Debug\netcoreapp3.1\GestaoFacil.Dados.csprojAssemblyReference.cache
+C:\Sistema\AdmGestaofacil\GestaoFacil.Dados\obj\Debug\netcoreapp3.1\GestaoFacil.Dados.AssemblyInfoInputs.cache
+C:\Sistema\AdmGestaofacil\GestaoFacil.Dados\obj\Debug\netcoreapp3.1\GestaoFacil.Dados.AssemblyInfo.cs
+C:\Sistema\AdmGestaofacil\GestaoFacil.Dados\obj\Debug\netcoreapp3.1\GestaoFacil.Dados.csproj.CoreCompileInputs.cache
+C:\Sistema\AdmGestaofacil\GestaoFacil.Dados\obj\Debug\netcoreapp3.1\GestaoFacil.Dados.dll
+C:\Sistema\AdmGestaofacil\GestaoFacil.Dados\obj\Debug\netcoreapp3.1\GestaoFacil.Dados.pdb
+C:\Sistema\AdmGestaofacil\GestaoFacil.Dados\obj\Debug\netcoreapp3.1\GestaoFacil.Dados.genruntimeconfig.cache

@@ -31,7 +31,7 @@ namespace GestaoFacil.Dados.Repositories
         {
             return _contexto.Cartao.ToList();
         }
-
+        //s
         public void Remove(int id)
         {
             var cartao = Find(id);

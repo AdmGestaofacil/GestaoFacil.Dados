@@ -12,7 +12,7 @@ namespace GestaoFacil.Dados
         public enum TipoCriptografia
         {
             Nenhuma = 0,
-            SHA1 = 1
+            SHA1 = 1 //
         }
 
 

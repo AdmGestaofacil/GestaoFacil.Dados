@@ -36,6 +36,8 @@ namespace GestaoFacil.Dados.Modelos
         public string Email { get; set; }
         public bool Ativo { get; set; }
 
+        public ICollection<Vale> Vales { get; set; }
+
         /*Esta faltando os dados de endereço do funcionario avaliar se preciso no momento*/
 
     }

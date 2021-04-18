@@ -27,5 +27,6 @@ namespace GestaoFacil.Dados.Modelos
         [ForeignKey("FuncionarioId")]
         public int FuncionarioId { get; set; }
         public virtual Funcionario Funcionario { get; set; }
+
     }
 }
