@@ -32,6 +32,6 @@ namespace GestaoFacil.Dados.Modelos
         public int? ClienteID { get; set; }
         public virtual Cliente Cliente { get; set; }
 
-
+        //edi
     }
 }
